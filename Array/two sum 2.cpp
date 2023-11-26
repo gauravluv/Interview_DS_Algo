@@ -1,4 +1,7 @@
 /*
+
+link: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
+
 intution : we add two number their sum is equal to target and Array is sorted so, we used two Pointer.
 
 Approach: two Pointer
